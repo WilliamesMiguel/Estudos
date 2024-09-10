@@ -1,0 +1,9 @@
+/* CSS para o container */
+.container {
+    max-width: 1200px; /* Largura máxima */
+    margin: 0 auto;    /* Centraliza o container */
+    padding: 20px;     /* Adiciona espaçamento interno */
+    background-color: #f0f0f0; /* Cor de fundo para visualização */
+    border: 1px solid #ccc; /* Uma borda opcional */
+  }
+  
